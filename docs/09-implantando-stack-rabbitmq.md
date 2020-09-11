@@ -409,4 +409,4 @@ vagrant ssh xonadao -c 'etcdctl get "" --from-key'
 ```
 
 
-Próximo: [Implantando LoadBalance nas Stacks](docs/10-implantando-loadbalance-stacks.md)
+Próximo: [Implantando LoadBalance nas Stacks](10-implantando-loadbalance-stacks.md)

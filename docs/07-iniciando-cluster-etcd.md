@@ -129,4 +129,4 @@ Delete a chave criada anteriormente
 etcdctl del foo
 ```
 
-Próximo: [Implantando a Stack do Portainer](docs/08-implantando-stack-portainer.md)
+Próximo: [Implantando a Stack do Portainer](08-implantando-stack-portainer.md)

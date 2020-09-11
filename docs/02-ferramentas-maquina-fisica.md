@@ -27,4 +27,4 @@ cat <<EOF | sudo tee --append /etc/hosts
 EOF
 ```
 
-Próximo: [Provisionando Máquinas Virtuais](docs/03-provisionando-maquinas-virtuais.md)
+Próximo: [Provisionando Máquinas Virtuais](03-provisionando-maquinas-virtuais.md)

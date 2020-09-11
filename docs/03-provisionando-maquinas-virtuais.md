@@ -17,4 +17,4 @@ Para acessar o console de cada máquina virtual, siga o exemplo abaixo:
 vagrant ssh NOME_DA_VM
 ```
 
-Próximo: [Inicializando o Cluster do Swarm](docs/04-iniciando-cluster-swarm.md)
+Próximo: [Inicializando o Cluster do Swarm](04-iniciando-cluster-swarm.md)

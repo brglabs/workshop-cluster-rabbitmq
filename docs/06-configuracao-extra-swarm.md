@@ -42,4 +42,4 @@ docker node update --label-add rabbitmq3=true xonadao
 > Nota: abrindo o Visualizer você consegue ver as labels criadas (exemplo: http://tpd.local:5000).
 
 
-Próximo: [Inicializando o Cluster etcd](docs/07-iniciando-cluster-etcd.md)
+Próximo: [Inicializando o Cluster etcd](07-iniciando-cluster-etcd.md)

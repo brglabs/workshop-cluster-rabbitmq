@@ -20,4 +20,4 @@ Obtendo a mensagem da fila
 rabbitmqadmin -u admin -p admin -V lab1 getqueue=my-new-queue ackmode=ack_requeue_false
 
 
-* [Limpando Tudo](docs/13-limpando-tudo.md)
+* [Limpando Tudo](13-limpando-tudo.md)

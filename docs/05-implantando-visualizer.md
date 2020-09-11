@@ -26,4 +26,4 @@ docker service create \
 
 Abra algum browser da sua máquina fisica e digite qualquer IP ou Host + a porta 5000 (configurados no /etc/hosts da máquina física), por exemplo `tpd.local:5000`.
 
-Próximo: [Configurando extra no Swarm](docs/06-configuracao-extra-swarm.md)
+Próximo: [Configurando extra no Swarm](06-configuracao-extra-swarm.md)

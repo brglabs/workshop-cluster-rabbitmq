@@ -59,4 +59,4 @@ rabbitmqctl set_user_tags consumer write-only
 rabbitmqctl set_permissions -p $HOST_NAME consumer "^pubsub" ".^$" ".*";
 ```
 
-Próximo: [Testando Pub/Sub](docs/12-testando-pub-sub.md)
+Próximo: [Testando Pub/Sub](12-testando-pub-sub.md)

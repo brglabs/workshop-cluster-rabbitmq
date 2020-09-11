@@ -77,4 +77,4 @@ vagrant ssh tpd -c 'docker service ps portainer_server'
 > NOTA: se quer acessar o Portainer via browser sem um loadbacance/proxy-reverso na frente, precisa expor a porta 9001:9000, podender acessar, por exemplo: `tpd.sre.local:9001`.
 
 
-Próximo: [Implantando a Stack do RabbitMQ](docs/09-implantando-stack-rabbitmq.md)
+Próximo: [Implantando a Stack do RabbitMQ](09-implantando-stack-rabbitmq.md)

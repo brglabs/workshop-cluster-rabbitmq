@@ -25,4 +25,4 @@ Execute o comando abaixo para verificar o nós do cluster (é necessário execut
 vagrant ssh tpd -c 'docker node ls'
 ```
 
-Próximo: [Implantando o Visualizer](docs/05-implantando-visualiser.md)
+Próximo: [Implantando o Visualizer](05-implantando-visualiser.md)

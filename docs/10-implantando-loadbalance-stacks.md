@@ -203,4 +203,4 @@ Abra o navegador em sua máquina física e acesso os endereços abaixo:
 * [RabbitMQ Manager: http://rmq.sre.local](http://rmq.sre.local)
 * [RabbitMQ Monitor: http://rmq-monitor.sre.local](http://rmq-monitor.sre.local)
 
-Próximo: [Configurando o Cluster do RabbitMQ](docs/11-configurando-cluster-rabbitmq.md)
+Próximo: [Configurando o Cluster do RabbitMQ](11-configurando-cluster-rabbitmq.md)
