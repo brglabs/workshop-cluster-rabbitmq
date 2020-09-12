@@ -28,7 +28,7 @@ O  Workshop Cluster RabbitMQ orienta você na inicialização de um cluster Rabb
 * [Instalando as Ferramentas na Máquina Física](docs/02-ferramentas-maquina-fisica.md)
 * [Provisionando Máquinas Virtuais](docs/03-provisionando-maquinas-virtuais.md)
 * [Inicializando o Cluster do Swarm](docs/04-iniciando-cluster-swarm.md)
-* [Implantando o Visualizer](docs/05-implantando-visualiser.md)
+* [Implantando o Visualizer](docs/05-implantando-visualizer.md)
 * [Configurando extra no Swarm](docs/06-configuracao-extra-swarm.md)
 * [Inicializando o Cluster etcd](docs/07-iniciando-cluster-etcd.md)
 * [Implantando a Stack do Portainer](docs/08-implantando-stack-portainer.md)
